@@ -1,4 +1,4 @@
-// Initialize and add the map
+// Initialize and add the map o
 let map;
 
 async function initMap() {
